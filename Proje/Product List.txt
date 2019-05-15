@@ -1,0 +1,29 @@
+Electronic	CellPhone	Samsung	GalaxyNote8	6.3	12	8	64	6	4320	GalaxyNote8
+Electronic	CellPhone	Apple	IphoneX	5.8	12	7	64	3	4799	iPhoneX
+Electronic	CellPhone	Asus	Zenfone4	5.5	12	8	64	4	2699	Zenfone4
+Electronic	Laptop	Apple	Macbook	15.4	 MACOS	512	16	11129	AppleMacbook
+Electronic	Laptop	Dell	Inspiron	15.6	Linux	500	4	2299	DellInspiron
+Electronic	Laptop	HP	G6	15.6	FreeDos	500	4	1899	HPG6	
+Electronic	Laptop	Lenovo	Yoga	14	Windows10	128	4	2488	LenovoYoga	
+Electronic	Printer	Brother	HL1211W	150	1	549	BrotherPrinter			
+Electronic	Printer	HP	Deskjet2136	60	2	154	HPDeskjet			
+Electronic	Printer	Samsung	SL-M2020W	150	1	329	SamsungPrinter			
+Electronic	Printer	Xerox	Workcentre6027NI	150	4	1855	XeroxPrinter			
+Electronic	Tablet	Apple	Ipad	9.7	5	32	1	2348	AppleiPad	
+Electronic	Tablet	Asus	TX201LAF	11.6	5	16	2	599	AsusTablet	
+Electronic	Tablet	Samsung	GalaxyTab3	7	2	8	1	358	GalaxyTab3	
+Electronic	Television	LG	43UJ651V	43	4K	4	2	9.2	2449	LGTelevision
+Electronic	Television	Philips	55PUS6401	55	4K	4	3	16	3209	PhilipsTV
+Electronic	Television	Samsung	UE43MU7000	43	4K	3	2	8.6	2315	SamsungSmartTv
+WhiteGoods	Fridge	Samsung	RL4323RBAWW/TR	«iftKapç˝lç˝	A++	303	2249	SamsungFridge		
+WhiteGoods	Fridge	Beko	B9477NMN	«iftKapç˝lç˝	A+	330	2999	BekoFridge		
+WhiteGoods	Fridge	LG	GC-D502HLAM	«iftKap˝çl˝ç	A+	327	2399	LGFridge		
+WhiteGoods	WashingMachine	Samsung	WF90F5E0W2W/AH	9	62	1429	SamsungWashingMachine			
+WhiteGoods	WashingMachine	LG	FH4U2VFNP3	9	52	1508	LGWashingMachine			
+WhiteGoods	WashingMachine	Hotpoint	FMF803TK	8	54	999	HotpointWashingMachine		
+WhiteGoods	DishWasher	Samsung	DW60M5030FS	Solo	A++	4	1285	SamsungDishwasher		
+WhiteGoods	DishWasher	LG	D1450WF1	Solo	A++	5	1549	LGDishwasher		
+WhiteGoods	DishWasher	 Bosch	SMS30E02TR	Solo	A+	3	1159	BoschDishwasher		
+WhiteGoods	Dryer	Electrolux	EDH3685TDW	8	A++	2255	ElectroluxDryer			
+WhiteGoods	Dryer	Bosch	WTW87560TR	9	A++	4300	BoschDryer			
+WhiteGoods	Dryer	Hotpoint	TCL87B6P(TK)	8	B	1507	HotpointDryer

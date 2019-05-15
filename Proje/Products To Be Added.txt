@@ -1,0 +1,5 @@
+Electronic	CellPhone	Apple	Iphone8	4.7	12	7	64	2	3809	iPhone8
+Electronic	Laptop	Toshiba	Satellite	15.6	FreeDos	500	4	2089	ToshibaSatellite
+Electronic	Tablet	Lenovo	YogaTab3	10	8	16	2	999	LenovoYogaTab3
+WhiteGoods	Dryer	LG	FH0C9CDHK7.ASSPLTK	10	A+++	5248	LGDryer
+WhiteGoods	WashingMachine	Beko	D77101E	7	60	1149	BekoWashingMachine
